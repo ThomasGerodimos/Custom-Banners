@@ -1,0 +1,126 @@
+/* CSS for desktop and tablet */
+@media (min-width: 769px) {
+    /* Banner settings for Desktop*/
+
+    #banner-desktop {
+        display: block; /* Show the div on desktop and tablet */
+    }
+
+    #banner-desktop{
+        border-width:1px;
+        border-style:solid;
+        border-color:#bdc3c7;
+        -webkit-box-shadow:0px 0px 19px 0px #bdc3c7;
+        box-shadow:0px 0px 19px 0px #bdc3c7;
+        position:relative;
+    }
+
+    #banner-desktop{
+        border-width:1px;
+        border-style:solid;
+        border-color:#bdc3c7;
+        -webkit-box-shadow:0px 0px 19px 0px #bdc3c7;
+        box-shadow:0px 0px 19px 0px #bdc3c7;
+        position:relative;
+    }
+
+    #banner-desktop h2{
+        position:relative;
+        text-align:center;
+        top:5vh;
+    }
+
+    #banner-desktop h2 a{
+        display:inline-block;
+        -webkit-transform:translatex(0px) translatey(0px) !important;
+        -ms-transform:translatex(0px) translatey(0px) !important;
+        transform:translatex(0px) translatey(0px) !important;
+        padding-left:15%;
+        padding-right:15%;
+    }
+
+
+    
+    #banner-mobile {
+        display: none; /* Hide the div on desktop and tablet */
+    }
+}
+
+@media (max-width:800px){
+
+	#banner-desktop{
+	-webkit-transform:scale(0.65);
+	-ms-transform:scale(0.65);
+	transform:scale(0.65);
+	left:-23%;
+	}
+
+}
+
+@media (max-width:900px){
+
+	#banner-desktop{
+	-webkit-transform:scale(0.75);
+	-ms-transform:scale(0.75);
+	transform:scale(0.75);
+	left:-121px;
+	}
+
+}
+
+@media (max-width:990px){
+
+	#banner-desktop{
+	width:1115px;
+	left:-75px;
+	}
+
+}
+
+
+@media (max-width:1055px){
+
+    #banner-desktop{
+	width:110%;
+	-webkit-transform:scale(0.8);
+	-ms-transform:scale(0.8);
+	transform:scale(0.8);
+	left:-6%;
+	}
+
+}
+
+
+/* CSS for mobile */
+@media (max-width: 768px) {
+    /* Banner settings for Mobile */
+
+    #banner-mobile{
+        border-width:1px;
+        border-color:#bdc3c7;
+        border-style:solid;
+        -webkit-box-shadow:0px 0px 19px 0px #bdc3c7;
+        box-shadow:0px 0px 19px 0px #bdc3c7;
+    }
+
+    
+    #banner-mobile h2{
+        padding-left:0em;
+        text-align:center;
+    }
+
+    #banner-mobile h2{
+        padding-top:5em !important;
+    }
+
+
+    #banner-desktop {
+        display: none; /* Hide the div on mobile */
+    }
+	
+	
+	
+    #banner-mobile {
+        display: block; /* Show the div on mobile */
+    }
+}

@@ -1,0 +1,26 @@
+.preview-image {
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+/* CSS for desktop and tablet */
+@media (min-width: 769px) {
+    #banner-desktop {
+        display: block; /* Show the div on desktop and tablet */
+    }
+    #banner-mobile {
+        display: none; /* Hide the div on desktop and tablet */
+    }
+}
+
+/* CSS for mobile */
+@media (max-width: 768px) {
+    #banner-desktop {
+        display: none; /* Hide the div on mobile */
+    }
+    #banner-mobile {
+        display: block; /* Show the div on mobile */
+    }
+}
+
+

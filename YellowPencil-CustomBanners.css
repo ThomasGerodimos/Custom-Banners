@@ -1,0 +1,312 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. Global Styles
+    02. "Home 1" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  Global Styles                                */
+/*-----------------------------------------------*/
+body .body-inner-content .header-middle-area .container .row .align-self-center div a img{
+	margin-top:-30px !important;
+}
+
+@media (max-width:640px){
+
+	body .header-middle-area a img{
+	display:inline-block;
+	-webkit-transform:translatex(0px) translatey(0px) !important;
+	-ms-transform:translatex(0px) translatey(0px) !important;
+	transform:translatex(0px) translatey(0px) !important;
+	}
+
+}
+
+
+/*-----------------------------------------------*/
+/*  "Home 1" Page                                */
+/*-----------------------------------------------*/
+body.page-id-1878 .elementor-element-2df75866 .media .post-thumb-low-padding{
+	width:157px;
+}
+
+body.page-id-1878 .elementor-element-6761a0 .media .post-thumb-low-padding{
+	width:146px;
+}
+
+body.page-id-1878 .elementor-element-6761a0 .media .digiqole-sm-bg-img{
+	background-size:contain !important;
+}
+
+body.page-id-1878 .elementor-element-2df75866 .media .digiqole-sm-bg-img{
+	background-size:contain !important;
+}
+
+body.page-id-1878 .header-middle-area a img{
+	margin-top:-30px;
+	margin-bottom:-20px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#bdc3c7;
+}
+
+body.page-id-1878 .logo-area .logo .img-fluid{
+	border-style:none;
+}
+
+body.page-id-1878 .main-slider .item .post-content{
+	background-color:rgba(84,89,95,0.7) !important;
+}
+
+body.page-id-1878 #onesignal-slidedown-cancel-button{
+	-webkit-transform:translatex(0px) translatey(0px);
+	-ms-transform:translatex(0px) translatey(0px);
+	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-1878 .elementor-element-61505dd8 li .digiqole-sm-bg-img{
+	background-size:contain !important;
+}
+
+body.page-id-1878 .elementor-element-780ff0d .main-slider .digiqole-main-slider{
+	-webkit-box-shadow:none;
+	box-shadow:none;
+}
+
+body.page-id-1878 .elementor-element-780ff0d .main-slider .item{
+	-webkit-box-shadow:none;
+	box-shadow:none;
+}
+
+body.page-id-1878 .elementor-element-5c614333 .item .post-cat{
+	min-height:25px;
+	text-transform:uppercase !important;
+}
+
+body.page-id-1878 #banner-desktop h2{
+	position:relative;
+	text-align:center;
+	top:5vh;
+}
+
+body.page-id-1878 #banner-desktop{
+	border-width:1px;
+	border-style:solid;
+	border-color:#bdc3c7;
+	-webkit-box-shadow:0px 0px 19px 0px #bdc3c7;
+	box-shadow:0px 0px 19px 0px #bdc3c7;
+	position:relative;
+}
+
+body.page-id-1878 #banner-desktop h2 a{
+	display:inline-block;
+	-webkit-transform:translatex(0px) translatey(0px) !important;
+	-ms-transform:translatex(0px) translatey(0px) !important;
+	transform:translatex(0px) translatey(0px) !important;
+	padding-left:15%;
+	padding-right:15%;
+}
+
+body.page-id-1878 .ultp-heading-center span{
+	padding-top:0px;
+}
+
+body.page-id-1878 .elementor-element-53ddc0de .elementor-element .elementor-widget-container{
+	padding-top:0px;
+	margin-top:-50px;
+}
+
+body.page-id-1878 #banner-mobile h2{
+	padding-left:0em;
+	text-align:center;
+}
+
+body.page-id-1878 .body-inner-content .elementor .elementor-element-6f674d0 .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-shortcode .elementor-widget-container .elementor-shortcode #banner-mobile h2{
+	padding-top:5em !important;
+}
+
+body.page-id-1878 #banner-mobile{
+	border-width:1px;
+	border-color:#bdc3c7;
+	border-style:solid;
+	-webkit-box-shadow:0px 0px 19px 0px #bdc3c7;
+	box-shadow:0px 0px 19px 0px #bdc3c7;
+}
+
+@media (max-width:1055px){
+
+	body.page-id-1878 #banner-desktop{
+	width:110%;
+	-webkit-transform:scale(0.8);
+	-ms-transform:scale(0.8);
+	transform:scale(0.8);
+	left:-6%;
+	}
+
+}
+
+
+
+@media (max-width:990px){
+
+	body.page-id-1878 #banner-desktop{
+	width:1115px;
+	left:-75px;
+	}
+
+}
+
+
+
+@media (max-width:900px){
+
+	body.page-id-1878 #banner-desktop{
+	-webkit-transform:scale(0.75);
+	-ms-transform:scale(0.75);
+	transform:scale(0.75);
+	left:-121px;
+	}
+
+}
+
+
+
+@media (max-width:800px){
+
+	body.page-id-1878 #banner-desktop{
+	-webkit-transform:scale(0.65);
+	-ms-transform:scale(0.65);
+	transform:scale(0.65);
+	left:-23%;
+	}
+
+}
+
+
+
+@media (max-width:767px){
+
+	body.page-id-1878 .body-inner-content .elementor .elementor-element-6f674d0 .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-shortcode .elementor-widget-container .elementor-shortcode #banner-mobile h2{
+	padding-top:83px !important;
+}
+
+body.page-id-1878 #banner-mobile h2{
+	font-size:16px;
+}
+
+body.page-id-1878 #banner-mobile{
+	text-align:center;
+}
+
+body.page-id-1878 .elementor-element-6f674d0 .elementor-widget-shortcode .elementor-shortcode{
+	padding-left:auto;
+	margin-left:25%;
+	margin-right:auto;
+	}
+
+}
+
+
+
+@media (max-width:720px){
+
+	body.page-id-1878 .elementor-element-6f674d0 .elementor-widget-wrap{
+	-webkit-transform:translatex(0px) translatey(0px);
+	-ms-transform:translatex(0px) translatey(0px);
+	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-1878 .elementor-element-6f674d0 .elementor-widget-shortcode .elementor-shortcode{
+	position:relative;
+	left:auto;
+}
+
+body.page-id-1878 .body-inner-content .elementor .elementor-element-6f674d0 .elementor-container .elementor-top-column .elementor-widget-wrap .elementor-widget-shortcode .elementor-widget-container .elementor-shortcode{
+	top:auto !important;
+	}
+
+}
+
+
+
+@media (max-width:500px){
+
+	body.page-id-1878 .elementor-element-6f674d0 .elementor-widget-shortcode .elementor-widget-container{
+	position:relative;
+	left:-2em;
+	}
+
+}
+
+
+
+@media (max-width:479px){
+
+	body.page-id-1878 .elementor-element-6f674d0 .elementor-widget-wrap{
+	-webkit-transform:translatex(0px) translatey(0px);
+	-ms-transform:translatex(0px) translatey(0px);
+	transform:translatex(0px) translatey(0px);
+	}
+
+}
+
+
+
+@media (max-width:411px){
+
+	body.page-id-1878 #banner-mobile{
+	position:relative;
+	left:-7%;
+	}
+
+}
+
+
+
+@media (max-width:400px){
+
+	body.page-id-1878 .elementor-element-6f674d0 .elementor-widget-shortcode .elementor-widget-container{
+	left:-55px;
+}
+
+body.page-id-1878 #banner-mobile{
+	left:0%;
+	}
+
+}
+
+
+
+@media (max-width:320px){
+
+	body.page-id-1878 .elementor-element-6f674d0 .elementor-widget-shortcode .elementor-widget-container{
+	left:-77px;
+}
+
+body.page-id-1878 #banner-mobile{
+	-webkit-transform:scale(0.9);
+	-ms-transform:scale(0.9);
+	transform:scale(0.9);
+	}
+
+}
+
+
+
+@media (min-width:768px){
+
+	body.page-id-1878 #banner-mobile h2{
+	font-size:0.8em;
+	}
+
+}
